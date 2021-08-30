@@ -1,4 +1,4 @@
-# XuZhongCN.github.io
+# daydayup.github.io
 博客 
 https://catdqq.github.io/
 适合Java语言开发服务器入门
