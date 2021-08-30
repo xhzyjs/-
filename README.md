@@ -1,6 +1,6 @@
-# daydayup.github.io
+# xhzyjs.github.io
 博客 
-https://catdqq.github.io/
+https://xhzyjs.github.io/
 适合Java语言开发服务器入门
 
 ## 博客主要分为以下模块：
